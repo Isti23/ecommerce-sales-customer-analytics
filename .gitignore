@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Original dataset
+data/Online Retail.xlsx
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment and secrets
+.env
+.venv/
+venv/
